@@ -12,14 +12,14 @@ to me anything that I might lack
 
 # Project
 
-* Retro & Retroactive
+* [Retro & Retroactive](https://github.com/philipheines-centaur/retro-retroactive-pm)
 
 Retro is a MS Office addin that behaves like Git. Retroactive is the Github to Retro.
 
-* Nupu
+* [Nupu](https://github.com/philipheines-centaur/nudu-pm)
 
 Nupu is a Uber for cleaning service based in SEA.
 
-* Wolf
+* [Wolf](https://github.com/philipheines-centaur/wolf-pm)
 
 Wolf is automated trading system. Main task is to collect market data such as price and news. The trading part is secondary.
